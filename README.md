@@ -2,6 +2,10 @@
 
 An extension for GeoJSON for aligning gazetteer data.
 
+## Linked Data
+
+GeoJSON+ as Linked Data, see here: https://github.com/linkedgeodesy/geojson-plus-ld
+
 ## License
 
 Released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) by [Florian Thiery<sup>1</sup>](https://github.com/florianthiery), [i3mainz<sup>2</sup>](https://github.com/i3mainz) and [rgzm<sup>3</sup>](https://github.com/RGZM).
